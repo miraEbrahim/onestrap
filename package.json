@@ -1,0 +1,19 @@
+{
+  "name": "onestrap",
+  "version": "1.0.0",
+  "description": "OneNights RTL Bootstrp template ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miraEbrahim/onestrap.git"
+  },
+  "author": "Maryam Ebrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miraEbrahim/onestrap/issues"
+  },
+  "homepage": "https://github.com/miraEbrahim/onestrap#readme"
+}
